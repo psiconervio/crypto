@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "dotenv": "^16.4.5",
+    "mongoose": "^8.8.1",
+    "telegraf": "^4.16.3",
+    "web3": "^4.15.0"
+  }
+}
